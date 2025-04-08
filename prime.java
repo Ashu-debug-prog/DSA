@@ -1,3 +1,5 @@
+/*Prime numbers are positive integers greater than 1 that have exactly two factors: 1 and the number itself.*/
+
 package primenum;
 
 public class prime {
